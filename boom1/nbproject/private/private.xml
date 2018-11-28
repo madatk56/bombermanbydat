@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/Sound/GameSound.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/level/FileLevelLoader.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/ai/AIMedium.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/tile/item/FlameItem.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/tile/Portal.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/graphics/Sprite.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/Game.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/Enemy.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/kondoria.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/Oneal.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/bomb/Bomb.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/Balloon.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/Character.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/tile/item/BombItem.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/enemy/ai/AILow.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/tile/item/SpeedItem.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/boom1/src/uet/oop/bomberman/entities/character/Bomber.java</file>
+        </group>
+    </open-files>
+</project-private>
